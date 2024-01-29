@@ -1,6 +1,8 @@
 # READme.md
 README.md for Aldrin Labs
 
+markdown
+Copy code
 # ramm-evm-sdk
 
 Welcome to the Aldrin Labs ramm-evm-sdk repository! This software development kit (SDK) is designed to work with Aldrin Labs, a cutting-edge multi-chain Automated Market Maker (AMM) that addresses impermanent loss on the Ethereum Virtual Machine (EVM) and other compatible blockchain networks.
@@ -31,18 +33,38 @@ To get started with the ramm-evm-sdk, follow these steps:
 
    ```bash
    git clone https://github.com/AldrinLabs/ramm-evm-sdk.git
+Install dependencies:
 
-
-2. Instal dependencies
-
-   cd ramm-evm-sdk
+bash
+Copy code
+cd ramm-evm-sdk
 npm install
+Set up your project:
 
-
-3. Set up your project:
+javascript
+Copy code
 const rammSdk = require('ramm-evm-sdk');
 
 // Your code here
+For more detailed information, refer to the documentation.
 
+Usage
+Here's a basic example of how to use the ramm-evm-sdk in your project:
 
+javascript
+Copy code
+const rammSdk = require('ramm-evm-sdk');
 
+// Your code here
+For more in-depth usage examples and API documentation, please refer to the wiki.
+
+Contribution
+We welcome contributions from the community! If you'd like to contribute to the ramm-evm-sdk development, please follow our contribution guidelines.
+
+License
+This project is licensed under the MIT License. Feel free to use and modify the code as needed.
+
+csharp
+Copy code
+
+Simply copy the above content, create a new file named `README.md` in your GitHub 
