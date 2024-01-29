@@ -33,6 +33,16 @@ To get started with the ramm-evm-sdk, follow these steps:
    git clone https://github.com/AldrinLabs/ramm-evm-sdk.git
 
 
+2. Instal dependencies
+
    cd ramm-evm-sdk
 npm install
+
+
+3. Set up your project:
+const rammSdk = require('ramm-evm-sdk');
+
+// Your code here
+
+
 
