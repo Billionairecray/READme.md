@@ -31,3 +31,8 @@ To get started with the ramm-evm-sdk, follow these steps:
 
    ```bash
    git clone https://github.com/AldrinLabs/ramm-evm-sdk.git
+
+
+   cd ramm-evm-sdk
+npm install
+
